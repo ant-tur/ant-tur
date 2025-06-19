@@ -25,25 +25,15 @@ I'm a beginner **Fullstack Developer** currently learning and building projects 
 
 ---
 
-## 📂 Projects
-
-| Name | Tech | Description |
-|------|------|-------------|
-| [task-board-app](https://github.com/AntonTur/task-board-app) | React, Node.js, MongoDB | A task management app with user login |
-| [simple-landing](https://github.com/AntonTur/simple-landing) | HTML, CSS | Responsive landing page layout |
-| [currency-converter](https://github.com/AntonTur/currency-converter) | JavaScript, TypeScript | Currency converter with live API rates |
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonTur&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonTur&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ant-tur&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ant-tur&layout=compact)
 
 ---
 
 ## 📫 How to reach me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📩 Email: yourname@gmail.com
-- 💬 Telegram: [@your_nickname](https://t.me/your_nickname)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/turanton/)
+- 📩 Email: ant.tur85@gmail.com
+- 💬 Telegram: [@your_nickname](https://t.me/Tur_Anton)
