@@ -36,4 +36,4 @@ I'm a beginner **Fullstack Developer** currently learning and building projects 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/turanton/)
 - 📩 Email: ant.tur85@gmail.com
-- 💬 Telegram: [@your_nickname](https://t.me/Tur_Anton)
+- 💬 Telegram: (https://t.me/Tur_Anton)
