@@ -16,7 +16,6 @@ I'm a beginner **Fullstack Developer** currently learning and building projects 
 ## 💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=csswizardry&logoColor=2965f1)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css&logoColor=%23663399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
