@@ -43,14 +43,6 @@ over theory.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ant-tur&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ant-tur&layout=compact&theme=dark)
-
----
-
 ## 📫 How to reach me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/turanton/)
